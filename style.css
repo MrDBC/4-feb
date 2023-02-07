@@ -22,10 +22,9 @@ p {
 }
 
 .content {
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: flex;
-    flex-basis: 50%;
-    background: #FFCD9E;
+    background: #925012;
 
 }
 
@@ -36,7 +35,7 @@ p {
     overflow: hidden;
     width: 60vw;
     height: 65vh;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     display: flex;
     flex-direction: column;
 
